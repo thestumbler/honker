@@ -1,0 +1,7 @@
+---
+documentclass: extarticle
+geometry: left=25mm, right=40mm, top=10mm, bottom=20mm
+indent: false
+fontsize: 14pt
+colorlinks: true
+---
